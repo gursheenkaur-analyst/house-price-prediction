@@ -10,7 +10,7 @@
 
 ## 📋 Project Overview
 
-A complete end-to-end machine learning project that predicts house prices using **Linear Regression**. The project covers the full data science pipeline — from raw data to model evaluation — with detailed visualizations at every step.
+A complete end-to-end machine learning project that predicts house prices using **Linear Regression**. The project covers the full data science pipeline, from raw data to model evaluation, with detailed visualizations at every step.
 
 **Business Question:** *What factors most influence house prices, and how accurately can we predict them?*
 
@@ -65,10 +65,10 @@ A complete end-to-end machine learning project that predicts house prices using 
 ## 🔍 Key Findings
 
 - **Median Income** is the strongest predictor of house price (highest positive correlation)
-- **Location** (Latitude/Longitude) significantly impacts prices — coastal areas are more expensive
+- **Location** (Latitude/Longitude) significantly impacts prices, coastal areas are more expensive
 - **House Age** has a surprisingly weak correlation with price
 - **Average Rooms** per household positively correlates with price but with diminishing returns
-- The model achieves **~60% accuracy** — a reasonable baseline for Linear Regression
+- The model achieves **~60% accuracy**, a reasonable baseline for Linear Regression
 
 ---
 
@@ -117,7 +117,7 @@ The script will:
    MSE                 : 0.5559
    RMSE                : 0.7456  → Average error of $74,560
 
-✅ Model Performance: GOOD — R² above 0.6
+✅ Model Performance: GOOD, R² above 0.6
 ```
 
 ---
